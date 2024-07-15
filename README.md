@@ -18,7 +18,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p></p></p>
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=kris224&show_icons=true&locale=en" alt="kris224" /></p>
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kris224&" alt="kris224" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=kris224&show_icons=true&locale=en" alt="kris224" /></p>
